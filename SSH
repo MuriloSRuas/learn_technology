@@ -1,0 +1,5 @@
+O que é uma chave SSH ?
+
+  Uma chave SSH é uma credencial que acessa um protocolo , é usada para acessar repositórios e dispositivos remotos , servidores e etc. E como isso funciona ? Bem , uma chave ssh são 
+na verdade 2 chaves , uma chave pública e uma privada , a chave privada seria uma "fechadura" de algum repositório remoto por exemplo (Essa fechadura faz a criptografia dos dados) 
+e usamos a chave privada como a própria "chave" para abrir e descriptografar os dados e entrar no repositório remotamente .
