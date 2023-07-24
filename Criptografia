@@ -1,0 +1,17 @@
+O que é a criptografia ?
+
+  A criptografia é cifrar alguma informação ou dado para deixa-lo secreto . Eu pesquisei por enquanto dois tipos de criptografia : Simétrica e Assimétrica ; vou explicar os dois tipos de cifragem .
+
+- Criptografia Simétrica : Esse tipo de criptografia que usa um algoritmo e uma chave , a chave define como o algoritmo cifra a mensagem . É usada para proteger 
+  dados no trajeto de emissor para receptor (pode ser entre varios usuários , não só de dois usuários) , a segurança vai depender dos bits da chave , uma chave 
+  com mais bits tem mais "chaves reserva" para substituir a chave velha . Porém , tem uma desvantagem em usar a criptografia simétrica , porque nem um dos usuários
+  pode ser identificado (você pensa que tá mandando um arquivo para o seu amigo , só que na verdade você mandou para putra pessoa) ; outra desvantagem é não ter um
+  lugar seguro para guardar a chave .
+
+- Criptografia Assimétrica : A chave Assimétrica já utiliza duas chaves : privada e pública , a chave pública faz a cifragem da informação e a chave privada descifra
+  a informação . Esse tipo de criptografia é mais seguro que a criptografia simétrica , pois você pode enviar esse arquivo para qualquer pessoa do mundo que ela não 
+  vai conseguir decifrar a mensagem sem as duas chaves , para decifrar a mensagem é necessário chave privada , e para utilizar a chave privada precisa da 
+  chave pública também , pois ela serve de "fechadura" , enquanto a chave privada serve como apenas "chave" .
+
+
+
